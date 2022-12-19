@@ -1,0 +1,52 @@
+html {
+    overflow: -moz-scrollbars-vertical; 
+    overflow-y: scroll;
+}
+
+.row, .jumbotron{
+	background-color: rgba(255,255,255,0.6);			
+	margin-bottom: 15px;
+	border-radius: 0px;
+}
+
+/* Innen kezd a stíluslap beállításait! */
+
+.teljes_szeles{
+	width: 100%;
+}
+#nyitva0{
+	margin-bottom: 15px;
+}
+#egy, #ketto, #harom, #negy, #ot{
+	background-color: #addaa9;
+	color: green;
+}
+#sz{
+	background-color: #f7f4c6;
+	color: brown;
+}
+#v{
+	background-color: #f8c6ec;
+	color: brown;
+}
+#one{
+	margin-left: 20px;
+}
+#two{
+	margin-left: 20px;
+}
+#three{
+	margin-left: 20px;
+}
+#four{
+	margin-left: 20px;
+}
+body{
+	background-image: linear-gradient(#5f9ea0, #66ddaa);
+}
+label{
+	font-weight: bold;
+}
+p{
+	text-justify: auto;
+}
